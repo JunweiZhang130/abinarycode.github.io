@@ -1,0 +1,6 @@
+name: "scan QR code"
+navbar:
+  title: "Between 0s and 1s"
+  left:
+    - text: "Home"
+      href: index.html
